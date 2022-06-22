@@ -1,0 +1,12 @@
+{
+    "flutter_about":"Flutter ဆိုတာ Codebase တခုထဲရေးပြီး \nမတူတဲ့ Platform မျိုးစုံမှာ အသုံးပြုနိုင်မဲ့ သေသပ်လှပတဲ့ အပလီကေးရှင်းများကို အလွယ်တကူ တည်ဆောက်ဖို့အတွက် \nGoogle က ထုတ်ထားပေးတဲ့ \nOpen Source Framework ဖြစ်ပါတယ်",
+    "fast": "မြန်ဆန်",
+    "productive": "ထွက်တိုး",
+    "flexible": "ပြင်လွယ်",
+    "fast_body": "ဘယ် Device မှာမဆို မြန်ဆန်တဲ့လုပ်ဆောင်မှုကောင်းရဖို့ အတွက် Flutter ကုဒ်က ARM (သို့) Intel machine ကုဒ်အဖြစ် ပြောင်းလဲပေးပါတယ်",
+    "productive_body": "Hot Reload နဲ့ မြန်မြန်ဆန်ဆန် Build လုပ်လို့ရတယ်။ လုပ်လက်စ State မပျက်ဘဲ ကုဒ်ကို  Update လုပ်ပြီး ချက်ချင်းကြည့်နိုင်တယ်",
+    "flexible_body": "Pixel တခုချင်းစီကို ကိုယ့်စိတ်ကြိုက်ရေးနိုင်တဲ့အတွက် ဘယ် Screen မှာမဆို ကြည့်ကောင်းနေမဲ့ Adaptive UI တွေရေးနိုင်တယ်",
+    "myanmar": "မြန်မာ",
+    "english": "အင်္ဂလိပ်",
+    "try_in_dartpad":"DartPad သို့ သွားမည်"
+}

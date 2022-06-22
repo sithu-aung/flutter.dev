@@ -1,0 +1,12 @@
+{
+    "flutter_about": "Flutter is an open source \nframework by Google for \nbuilding beautiful, natively \ncompiled, multi-platform \napplications from a single \ncodebase.",
+    "fast": "Fast",
+    "productive": "Productive",
+    "flexible": "Flexible",
+    "fast_body": "Flutter code compiles to ARM or Intel machine code as well as JavaScript, for fast performance on any device.",
+    "productive_body": "Build and iterate quickly with Hot Reload. Update code and see changes almost instantly, without losing state.",
+    "flexible_body": "Control every pixel to create customized, adaptive designs that look and feel great on any screen.",
+    "myanmar": "Myanmar",
+    "english": "English",
+    "try_in_dartpad":"Try it in DartPad"
+}
